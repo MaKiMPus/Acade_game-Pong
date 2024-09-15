@@ -1,0 +1,9 @@
+Breakdown the step of creating Pong
+1. create screen
+2. create paddles
+3. setup the controlling key for paddle
+4. create the ball and make it move
+5. Detect collision with the wall and bounce back
+6. Detect collision with paddle
+7. Detect when paddle misses
+8. Keep score
