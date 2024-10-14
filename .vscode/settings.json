@@ -1,0 +1,9 @@
+{
+    "editor.quickSuggestions": {
+        "comments": "on",
+        "strings": "on"
+    },
+    "workbench.editor.autoLockGroups": {
+        "default": true
+    }
+}
